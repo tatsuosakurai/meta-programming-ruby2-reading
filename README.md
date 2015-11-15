@@ -2,7 +2,8 @@
 
 # 概要
 * メタプログラミングRuby2のオンライン読書会です
-  * http://www.amazon.co.jp/dp/4048687158
+  * http://www.amazon.co.jp/dp/4873117437
+  * 第二版です！
 * 毎月 第1・第3月曜の22時から1時間♪
 * ハッシュタグは [#mpr2r](https://twitter.com/search?f=tweets&q=%23mpr2r&src=typd)
 
