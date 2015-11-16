@@ -1,7 +1,7 @@
 # meta-programming-ruby2-reading
 
 # 概要
-* メタプログラミングRuby2のオンライン読書会です
+* メタプログラミングRuby 第2版 のオンライン読書会です
   * http://www.amazon.co.jp/dp/4873117437
   * 第二版です！
 * 毎月 第1・第3月曜の22時から1時間♪
