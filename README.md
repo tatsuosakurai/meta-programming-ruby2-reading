@@ -8,7 +8,7 @@
 * ハッシュタグは [#mpr2r](https://twitter.com/search?f=tweets&q=%23mpr2r&src=typd)
 
 # チャット
-[![Join the chat at https://gitter.im/tatsuo/meta-programming-ruby2-reading](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tatsuo/meta-programming-ruby2-reading?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/tatsuosakurai/meta-programming-ruby2-reading](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tatsuosakurai/meta-programming-ruby2-reading?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 # 次回予告
