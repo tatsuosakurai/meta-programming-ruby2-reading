@@ -26,4 +26,4 @@
 
 
 # 誤字や脱字を発見したとき
-* 文中に誤字や脱字を見つけたら、typo.mdを更新します:)
+* 文中に誤字や脱字を見つけたら、[typo.md](https://github.com/tatsuosakurai/meta-programming-ruby2-reading/blob/master/typo.md)を更新します:)
